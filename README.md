@@ -10,3 +10,7 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/michdrexler/skills-copilot-code-review/issues/1)
 
+
+
+This is just an exercise for the GitHub Copilot GH-300 exam.
+I need to add changes to check to review process.
