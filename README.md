@@ -12,5 +12,5 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 
 
-This is just an exercise for the Github Copilot GH-300 exam.
+This is just an exercise for the GitHub Copilot GH-300 exam.
 I need to add changes to check to review process.
